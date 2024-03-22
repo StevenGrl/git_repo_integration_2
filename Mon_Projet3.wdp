@@ -22,7 +22,13 @@ project :
     64bits : true
  elements :
   identifier : 0x45fd6a66004d624a
-  elements : []
+  elements :
+   -
+     name : CL_Test
+     identifier : 0x45fd6adc00612d84
+     internal_properties : CQAAAAkAAAD7VyNnRAEpMj5si62+Gk+EFUawMPSw9Y5KyCBPDvefsQeF3VAO8upIX8Q+unp2AvbeZg==
+     physical_name : .\git_repo_integrated\CL_Test.wdc
+     type : 4
   other_elements : []
   array_of_analysis : []
   net_assemblies : []

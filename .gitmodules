@@ -1,0 +1,3 @@
+[submodule "git_repo_integrated"]
+	path = git_repo_integrated
+	url = https://github.com/StevenGrl/git_repo_integrated
